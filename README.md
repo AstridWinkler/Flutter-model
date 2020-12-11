@@ -3,6 +3,7 @@
 This model was created for a object modeling course. 
 It made us learn all about the different existing diagramms which are made before a project.
 They are here to help visualizing the layout of the application, the way the system is supposed to operate and how all the different parts interact with each other.
+The following flutter model is one the step needed to ensure our total comprehension of the major expectations.
 
 ## The scenario of the project
 
@@ -16,6 +17,7 @@ The flutter model follows the scenario, even if it is purely aesthetic. The only
 We tried to give it a "real application" feeling, with warm colors and visually pleasant elements.
 
 
-We hope you enjoyed discovering this project, and maybe it was usefull to you ! 
-We didn't have that much time to discover flutter and dart, but it was fun anyway, andwe will come back to it someday. :)
+///////////////////////
+We hope you enjoyed discovering this project, and maybe it was usefull to you personnaly ! 
+We didn't have that much time to discover flutter and dart, but it was fun anyway, and we will come back to it someday. :)
 Thank you !
