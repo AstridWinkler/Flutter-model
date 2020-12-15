@@ -16,8 +16,13 @@ The association wants to update its already existing website and set up a CMS bl
 The flutter model follows the scenario, even if it is purely aesthetic. The only goal is to display the ergonomy and the way things are interconnected.
 We tried to give it a "real application" feeling, with warm colors and visually pleasant elements.
 
+# Conclusion
 
-///////////////////////
 We hope you enjoyed discovering this project, and maybe it was usefull to you personnaly ! 
 We didn't have that much time to discover flutter and dart, but it was fun anyway, and we will come back to it someday. :)
 Thank you !
+
+## And thanks to...
+
+Louise WEBER and Lucie GOMES who greatly contributed to how this application looks now : without my teammates, it would just have been that much more arduous !
+Thanks girls ;)
