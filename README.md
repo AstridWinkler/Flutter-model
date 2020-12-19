@@ -25,4 +25,5 @@ Thank you !
 ## And thanks to...
 
 Louise WEBER and Lucie GOMES who greatly contributed to how this application looks now : without my teammates, it would just have been that much more arduous !
-Thanks girls ;)
+Thanks girls ;)  
+https://github.com/GomesLucie
